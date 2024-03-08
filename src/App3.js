@@ -101,21 +101,10 @@ export default function App() {
           )}
         </ul>
       </div>
-      <a href="#" title="Trang 1">
-        Trang 1
-      </a>
-      |
-      <a href="#" title="Trang 2">
-        Trang 2
-      </a>
-      |
-      <a href="#" title="Trang 3">
-        Trang 3
-      </a>
-      |
-      <a href="#" title="Trang 4">
-        Trang 4
-      </a>
+      <a href="#" title="Trang 1">Trang 1</a>|
+      <a href="#" title="Trang 2">Trang 2</a>|
+      <a href="#" title="Trang 3">Trang 3</a>|
+      <a href="#" title="Trang 4">Trang 4</a>
     </div>
   )
 }
